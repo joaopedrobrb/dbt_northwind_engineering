@@ -1,6 +1,6 @@
 Welcome to my project using Google Cloud + dbt!
 
-### In this project, I've used Google Cloud as a Data Warehouse and dbt to do the transforms into my dataset.
+### In this project, I've used Google Cloud as a Data Warehouse and dbt to do transformations into my dataset.
 
 You can see all phases of data transformations at aebootcamp/models/
 - warehouse
