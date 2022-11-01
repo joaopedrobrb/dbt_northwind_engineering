@@ -1,11 +1,14 @@
-Welcome to your new dbt project!
+Welcome to my project using Google Cloud + dbt!
 
-### Using the starter project
+### In this project, I've used Google Cloud as a Data Warehouse and dbt to do the transforms into my dataset.
 
-Try running the following commands:
-- dbt run
-- dbt test
+You can see all phases of data transformations at aebootcamp/models/
+- warehouse
+- staging
+- analytics_obt
 
+
+I've used the Northwind Database by Microsoft to learn and practice my dbt skills.
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
